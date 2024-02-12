@@ -1,2 +1,2 @@
 # k-means
- This is a Semester Project for my Image Processing class
+ This is the Semester Project for my Image Processing class
